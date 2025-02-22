@@ -1,1 +1,1 @@
-# ML-Project-Prediction-of-Adult-income-
+# ML-Project-Prediction-of-Adult-income
